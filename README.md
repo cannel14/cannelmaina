@@ -2,13 +2,11 @@
 #### I am software developer and Machine learning engineer.
 ![I am software developer and Machine learning engineer.](https://images.app.goo.gl/LxArQAiV1Kn2seYa7)
 
-I'm a Financial Engineering student at Jomo Kenyatta University of Agriculture and Technology.I'm an athlete who enjoys learning and growing each day.
+I'm a Financial Engineering graduate from Jomo Kenyatta University of Agriculture and Technology.I'm an athlete who enjoys learning and growing each day.
 
-Skills: Python/R/SQL/HTML/CSS/Javascript/PHP
+Skills: Python/R/SQL/HTML/CSS/Javascript
 
-- 🔭 I’m currently working on priconstate realtors page. 
-- 🌱 I’m currently learning php laravel framework. 
-- 👯 I’m looking to collaborate on php project. 
+
 - 💬 Ask me about data science and machine learning. 
 - 📫 How to reach me: ckaruiru14@gmail.com 
 - ⚡ Fun fact: Not many people know this about me, but when I was younger, I always wanted to join the military i still do. 
